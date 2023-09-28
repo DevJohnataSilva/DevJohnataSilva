@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnat%C3%A3-silva-86b268283/)
 
-![Silva Github stats](https://github-readme-stats.vercel.app/api?username=JohnataSilva74&show_icons=true&theme=radical)
+![Silva Github stats](https://github-readme-stats.vercel.app/api?username=DevJohnataSilva&show_icons=true&theme=radical)
 
 ### Tecnologias que eu uso no meu dia
 <div style="display: inline_block"><br/>
